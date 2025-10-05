@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd xmlns="https://pmd-code.org/schema/cpd-report"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         pmdVersion="7.7.0"
+         timestamp="2024-11-09T18:11:11.6188529+01:00"
+         version="1.0.0"
+         xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd">
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\Transformers.java"
+         totalNumberOfTokens="368"/>
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\api\Function.java"
+         totalNumberOfTokens="54"/>
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\main\java\it\unibo\nestedenum\MonthSorter.java"
+         totalNumberOfTokens="19"/>
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\main\java\it\unibo\nestedenum\MonthSorterNested.java"
+         totalNumberOfTokens="375"/>
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\test\java\it\unibo\functional\TestFunctionalLibrary.java"
+         totalNumberOfTokens="281"/>
+   <file path="C:\Users\sbrun\Desktop\GitHub\OOP\oop-lab07\72-anonymous-nested-enum\src\test\java\it\unibo\nestedenum\TestMonthSorter.java"
+         totalNumberOfTokens="843"/>
+</pmd-cpd>
